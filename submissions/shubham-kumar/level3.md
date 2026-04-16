@@ -3,10 +3,13 @@
 
 ## Agent: Digital Twin ROI Scoper
 
+**Repo:** https://github.com/kshubham090/lpi-roi-scoper
 **Code:** `submissions/shubham-kumar/level3/agent.py`
 **A2A Card:** `submissions/shubham-kumar/level3/agent.json`
 
 ## What It Does
+
+So basically I built this agent that acts like a consultant. You tell it your industry, what you want to do, and how much time or people you have — and it goes and fetches real data from the LPI tools, thinks about it, and tells you what's actually doable. Not just what sounds cool, but what fits your situation. It also tells you what to not do yet, which I think is actually the more useful part.
 
 Takes three inputs from the user:
 - Industry (e.g. healthcare, manufacturing, smart buildings)
